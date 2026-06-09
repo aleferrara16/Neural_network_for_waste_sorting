@@ -1,2 +1,4 @@
 # Neural_network_for_waste_sorting
-Project work  g38, Machine Learning Unisa 2026
+Machine learning project work - group 38, University of Salerno.
+                                2026
+
